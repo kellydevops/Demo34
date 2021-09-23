@@ -1,3 +1,4 @@
 this is my new file
 using cat cmd in git
 this is new line
+nbcvbcxvb
